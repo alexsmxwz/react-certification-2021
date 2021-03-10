@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/react-certification-2021/static/js/main.04f3dbdb.chunk.js",
-    "main.js.map": "/react-certification-2021/static/js/main.04f3dbdb.chunk.js.map",
+    "main.js": "/react-certification-2021/static/js/main.c4533671.chunk.js",
+    "main.js.map": "/react-certification-2021/static/js/main.c4533671.chunk.js.map",
     "runtime-main.js": "/react-certification-2021/static/js/runtime-main.d69dc15b.js",
     "runtime-main.js.map": "/react-certification-2021/static/js/runtime-main.d69dc15b.js.map",
     "static/js/2.85db6024.chunk.js": "/react-certification-2021/static/js/2.85db6024.chunk.js",
     "static/js/2.85db6024.chunk.js.map": "/react-certification-2021/static/js/2.85db6024.chunk.js.map",
     "index.html": "/react-certification-2021/index.html",
-    "precache-manifest.d31fdd2532fcb35bfd2518d692a14a98.js": "/react-certification-2021/precache-manifest.d31fdd2532fcb35bfd2518d692a14a98.js",
+    "precache-manifest.7222dcd60c8d4f09013981892552a9f3.js": "/react-certification-2021/precache-manifest.7222dcd60c8d4f09013981892552a9f3.js",
     "service-worker.js": "/react-certification-2021/service-worker.js",
     "static/js/2.85db6024.chunk.js.LICENSE.txt": "/react-certification-2021/static/js/2.85db6024.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.d69dc15b.js",
     "static/js/2.85db6024.chunk.js",
-    "static/js/main.04f3dbdb.chunk.js"
+    "static/js/main.c4533671.chunk.js"
   ]
 }
